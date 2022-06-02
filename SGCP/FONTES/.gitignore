@@ -1,0 +1,5 @@
+*.dcu
+*.identcache
+*.~*
+_history
+SGCP.dproj.local

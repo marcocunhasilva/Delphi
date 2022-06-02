@@ -1,0 +1,1 @@
+SELECT            P.CODIGO,       P.CPF,          P.RG,           P.NOME,         P.TELEFONE,     P.CEP,          P.LOGRADOURO,   P.BAIRRO,       P.LOCALIDADE,   P.UF          FROM              PESSOAS P     

@@ -1,0 +1,1607 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<IMPORT_ERRORS>
+    <ERROR ERROR_NR="1" LINE_NR="1" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="2" LINE_NR="2" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="3" LINE_NR="3" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="4" LINE_NR="4" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="5" LINE_NR="5" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="6" LINE_NR="6" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="7" LINE_NR="7" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="8" LINE_NR="8" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="9" LINE_NR="9" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="10" LINE_NR="10" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="11" LINE_NR="11" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="12" LINE_NR="12" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="13" LINE_NR="13" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="14" LINE_NR="14" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="15" LINE_NR="15" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="16" LINE_NR="16" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="17" LINE_NR="17" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="18" LINE_NR="18" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="19" LINE_NR="19" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="20" LINE_NR="20" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="21" LINE_NR="21" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="22" LINE_NR="22" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="23" LINE_NR="23" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="24" LINE_NR="24" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="25" LINE_NR="25" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="26" LINE_NR="26" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="27" LINE_NR="27" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="28" LINE_NR="28" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="29" LINE_NR="29" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="30" LINE_NR="30" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="31" LINE_NR="31" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="32" LINE_NR="32" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="33" LINE_NR="33" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="34" LINE_NR="34" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="35" LINE_NR="35" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="36" LINE_NR="36" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="37" LINE_NR="37" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="38" LINE_NR="38" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="39" LINE_NR="39" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="40" LINE_NR="40" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="41" LINE_NR="41" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="42" LINE_NR="42" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="43" LINE_NR="43" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="44" LINE_NR="44" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="45" LINE_NR="45" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="46" LINE_NR="46" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="47" LINE_NR="47" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="48" LINE_NR="48" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="49" LINE_NR="49" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="50" LINE_NR="50" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="51" LINE_NR="51" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="52" LINE_NR="52" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="53" LINE_NR="53" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="54" LINE_NR="54" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="55" LINE_NR="55" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="56" LINE_NR="56" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="57" LINE_NR="57" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="58" LINE_NR="58" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="59" LINE_NR="59" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="60" LINE_NR="60" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="61" LINE_NR="61" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="62" LINE_NR="62" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="63" LINE_NR="63" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="64" LINE_NR="64" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="65" LINE_NR="65" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="66" LINE_NR="66" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="67" LINE_NR="67" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="68" LINE_NR="68" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="69" LINE_NR="69" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="70" LINE_NR="70" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="71" LINE_NR="71" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="72" LINE_NR="72" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="73" LINE_NR="73" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="74" LINE_NR="74" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="75" LINE_NR="75" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="76" LINE_NR="76" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="77" LINE_NR="77" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="78" LINE_NR="78" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="79" LINE_NR="79" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="80" LINE_NR="80" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="81" LINE_NR="81" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="82" LINE_NR="82" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="83" LINE_NR="83" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="84" LINE_NR="84" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="85" LINE_NR="85" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="86" LINE_NR="86" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="87" LINE_NR="87" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="88" LINE_NR="88" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="89" LINE_NR="89" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="90" LINE_NR="90" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="91" LINE_NR="91" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="92" LINE_NR="92" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="93" LINE_NR="93" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="94" LINE_NR="94" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="95" LINE_NR="95" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="96" LINE_NR="96" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="97" LINE_NR="97" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="98" LINE_NR="98" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="99" LINE_NR="99" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="100" LINE_NR="100" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="101" LINE_NR="101" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="102" LINE_NR="102" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="103" LINE_NR="103" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="104" LINE_NR="104" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="105" LINE_NR="105" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="106" LINE_NR="106" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="107" LINE_NR="107" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="108" LINE_NR="108" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="109" LINE_NR="109" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="110" LINE_NR="110" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="111" LINE_NR="111" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="112" LINE_NR="112" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="113" LINE_NR="113" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="114" LINE_NR="114" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="115" LINE_NR="115" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="116" LINE_NR="116" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="117" LINE_NR="117" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="118" LINE_NR="118" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="119" LINE_NR="119" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="120" LINE_NR="120" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="121" LINE_NR="121" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="122" LINE_NR="122" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="123" LINE_NR="123" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="124" LINE_NR="124" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="125" LINE_NR="125" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="126" LINE_NR="126" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="127" LINE_NR="127" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="128" LINE_NR="128" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="129" LINE_NR="129" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="130" LINE_NR="130" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="131" LINE_NR="131" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="132" LINE_NR="132" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="133" LINE_NR="133" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="134" LINE_NR="134" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="135" LINE_NR="135" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="136" LINE_NR="136" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="137" LINE_NR="137" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="138" LINE_NR="138" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="139" LINE_NR="139" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="140" LINE_NR="140" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="141" LINE_NR="141" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="142" LINE_NR="142" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="143" LINE_NR="143" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="144" LINE_NR="144" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="145" LINE_NR="145" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="146" LINE_NR="146" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="147" LINE_NR="147" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="148" LINE_NR="148" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="149" LINE_NR="149" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="150" LINE_NR="150" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="151" LINE_NR="151" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="152" LINE_NR="152" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="153" LINE_NR="153" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="154" LINE_NR="154" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="155" LINE_NR="155" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="156" LINE_NR="156" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="157" LINE_NR="157" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="158" LINE_NR="158" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="159" LINE_NR="159" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="160" LINE_NR="160" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="161" LINE_NR="161" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="162" LINE_NR="162" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="163" LINE_NR="163" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="164" LINE_NR="164" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="165" LINE_NR="165" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="166" LINE_NR="166" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="167" LINE_NR="167" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="168" LINE_NR="168" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="169" LINE_NR="169" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="170" LINE_NR="170" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="171" LINE_NR="171" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="172" LINE_NR="172" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="173" LINE_NR="173" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="174" LINE_NR="174" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="175" LINE_NR="175" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="176" LINE_NR="176" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="177" LINE_NR="177" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="178" LINE_NR="178" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="179" LINE_NR="179" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="180" LINE_NR="180" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="181" LINE_NR="181" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="182" LINE_NR="182" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="183" LINE_NR="183" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="184" LINE_NR="184" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="185" LINE_NR="185" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="186" LINE_NR="186" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="187" LINE_NR="187" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="188" LINE_NR="188" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="189" LINE_NR="189" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="190" LINE_NR="190" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="191" LINE_NR="191" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="192" LINE_NR="192" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="193" LINE_NR="193" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="194" LINE_NR="194" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="195" LINE_NR="195" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="196" LINE_NR="196" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="197" LINE_NR="197" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="198" LINE_NR="198" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="199" LINE_NR="199" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="200" LINE_NR="200" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="201" LINE_NR="201" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="202" LINE_NR="202" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="203" LINE_NR="203" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="204" LINE_NR="204" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="205" LINE_NR="205" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="206" LINE_NR="206" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="207" LINE_NR="207" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="208" LINE_NR="208" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="209" LINE_NR="209" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="210" LINE_NR="210" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="211" LINE_NR="211" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="212" LINE_NR="212" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="213" LINE_NR="213" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="214" LINE_NR="214" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="215" LINE_NR="215" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="216" LINE_NR="216" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="217" LINE_NR="217" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="218" LINE_NR="218" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="219" LINE_NR="219" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="220" LINE_NR="220" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="221" LINE_NR="221" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="222" LINE_NR="222" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="223" LINE_NR="223" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="224" LINE_NR="224" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="225" LINE_NR="225" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="226" LINE_NR="226" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="227" LINE_NR="227" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="228" LINE_NR="228" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="229" LINE_NR="229" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="230" LINE_NR="230" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="231" LINE_NR="231" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="232" LINE_NR="232" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="233" LINE_NR="233" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="234" LINE_NR="234" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="235" LINE_NR="235" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="236" LINE_NR="236" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="237" LINE_NR="237" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="238" LINE_NR="238" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="239" LINE_NR="239" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="240" LINE_NR="240" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="241" LINE_NR="241" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="242" LINE_NR="242" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="243" LINE_NR="243" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="244" LINE_NR="244" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="245" LINE_NR="245" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="246" LINE_NR="246" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="247" LINE_NR="247" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="248" LINE_NR="248" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="249" LINE_NR="249" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="250" LINE_NR="250" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="251" LINE_NR="251" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="252" LINE_NR="252" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="253" LINE_NR="253" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="254" LINE_NR="254" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="255" LINE_NR="255" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="256" LINE_NR="256" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="257" LINE_NR="257" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="258" LINE_NR="258" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="259" LINE_NR="259" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="260" LINE_NR="260" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="261" LINE_NR="261" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="262" LINE_NR="262" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="263" LINE_NR="263" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="264" LINE_NR="264" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="265" LINE_NR="265" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="266" LINE_NR="266" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="267" LINE_NR="267" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="268" LINE_NR="268" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="269" LINE_NR="269" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="270" LINE_NR="270" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="271" LINE_NR="271" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="272" LINE_NR="272" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="273" LINE_NR="273" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="274" LINE_NR="274" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="275" LINE_NR="275" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="276" LINE_NR="276" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="277" LINE_NR="277" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="278" LINE_NR="278" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="279" LINE_NR="279" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="280" LINE_NR="280" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="281" LINE_NR="281" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="282" LINE_NR="282" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="283" LINE_NR="283" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="284" LINE_NR="284" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="285" LINE_NR="285" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="286" LINE_NR="286" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="287" LINE_NR="287" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="288" LINE_NR="288" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="289" LINE_NR="289" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="290" LINE_NR="290" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="291" LINE_NR="291" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="292" LINE_NR="292" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="293" LINE_NR="293" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="294" LINE_NR="294" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="295" LINE_NR="295" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="296" LINE_NR="296" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="297" LINE_NR="297" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="298" LINE_NR="298" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="299" LINE_NR="299" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="300" LINE_NR="300" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="301" LINE_NR="301" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="302" LINE_NR="302" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="303" LINE_NR="303" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="304" LINE_NR="304" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="305" LINE_NR="305" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="306" LINE_NR="306" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="307" LINE_NR="307" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="308" LINE_NR="308" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="309" LINE_NR="309" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="310" LINE_NR="310" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="311" LINE_NR="311" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="312" LINE_NR="312" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="313" LINE_NR="313" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="314" LINE_NR="314" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="315" LINE_NR="315" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="316" LINE_NR="316" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="317" LINE_NR="317" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="318" LINE_NR="318" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="319" LINE_NR="319" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="320" LINE_NR="320" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="321" LINE_NR="321" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="322" LINE_NR="322" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="323" LINE_NR="323" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="324" LINE_NR="324" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="325" LINE_NR="325" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="326" LINE_NR="326" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="327" LINE_NR="327" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="328" LINE_NR="328" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="329" LINE_NR="329" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="330" LINE_NR="330" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="331" LINE_NR="331" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="332" LINE_NR="332" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="333" LINE_NR="333" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="334" LINE_NR="334" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="335" LINE_NR="335" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="336" LINE_NR="336" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="337" LINE_NR="337" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="338" LINE_NR="338" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="339" LINE_NR="339" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="340" LINE_NR="340" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="341" LINE_NR="341" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="342" LINE_NR="342" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="343" LINE_NR="343" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="344" LINE_NR="344" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="345" LINE_NR="345" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="346" LINE_NR="346" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="347" LINE_NR="347" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="348" LINE_NR="348" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="349" LINE_NR="349" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="350" LINE_NR="350" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="351" LINE_NR="351" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="352" LINE_NR="352" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="353" LINE_NR="353" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="354" LINE_NR="354" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="355" LINE_NR="355" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="356" LINE_NR="356" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="357" LINE_NR="357" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="358" LINE_NR="358" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="359" LINE_NR="359" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="360" LINE_NR="360" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="361" LINE_NR="361" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="362" LINE_NR="362" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="363" LINE_NR="363" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="364" LINE_NR="364" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="365" LINE_NR="365" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="366" LINE_NR="366" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="367" LINE_NR="367" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="368" LINE_NR="368" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="369" LINE_NR="369" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="370" LINE_NR="370" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="371" LINE_NR="371" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="372" LINE_NR="372" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="373" LINE_NR="373" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="374" LINE_NR="374" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="375" LINE_NR="375" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="376" LINE_NR="376" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="377" LINE_NR="377" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="378" LINE_NR="378" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="379" LINE_NR="379" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="380" LINE_NR="380" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="381" LINE_NR="381" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="382" LINE_NR="382" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="383" LINE_NR="383" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="384" LINE_NR="384" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="385" LINE_NR="385" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="386" LINE_NR="386" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="387" LINE_NR="387" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="388" LINE_NR="388" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="389" LINE_NR="389" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="390" LINE_NR="390" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="391" LINE_NR="391" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="392" LINE_NR="392" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="393" LINE_NR="393" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="394" LINE_NR="394" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="395" LINE_NR="395" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="396" LINE_NR="396" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="397" LINE_NR="397" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="398" LINE_NR="398" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="399" LINE_NR="399" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="400" LINE_NR="400" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="401" LINE_NR="401" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="402" LINE_NR="402" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="403" LINE_NR="403" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="404" LINE_NR="404" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="405" LINE_NR="405" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="406" LINE_NR="406" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="407" LINE_NR="407" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="408" LINE_NR="408" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="409" LINE_NR="409" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="410" LINE_NR="410" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="411" LINE_NR="411" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="412" LINE_NR="412" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="413" LINE_NR="413" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="414" LINE_NR="414" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="415" LINE_NR="415" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="416" LINE_NR="416" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="417" LINE_NR="417" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="418" LINE_NR="418" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="419" LINE_NR="419" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="420" LINE_NR="420" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="421" LINE_NR="421" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="422" LINE_NR="422" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="423" LINE_NR="423" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="424" LINE_NR="424" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="425" LINE_NR="425" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="426" LINE_NR="426" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="427" LINE_NR="427" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="428" LINE_NR="428" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="429" LINE_NR="429" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="430" LINE_NR="430" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="431" LINE_NR="431" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="432" LINE_NR="432" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="433" LINE_NR="433" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="434" LINE_NR="434" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="435" LINE_NR="435" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="436" LINE_NR="436" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="437" LINE_NR="437" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="438" LINE_NR="438" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="439" LINE_NR="439" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="440" LINE_NR="440" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="441" LINE_NR="441" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="442" LINE_NR="442" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="443" LINE_NR="443" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="444" LINE_NR="444" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="445" LINE_NR="445" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="446" LINE_NR="446" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="447" LINE_NR="447" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="448" LINE_NR="448" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="449" LINE_NR="449" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="450" LINE_NR="450" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="451" LINE_NR="451" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="452" LINE_NR="452" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="453" LINE_NR="453" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="454" LINE_NR="454" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="455" LINE_NR="455" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="456" LINE_NR="456" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="457" LINE_NR="457" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="458" LINE_NR="458" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="459" LINE_NR="459" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="460" LINE_NR="460" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="461" LINE_NR="461" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="462" LINE_NR="462" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="463" LINE_NR="463" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="464" LINE_NR="464" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="465" LINE_NR="465" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="466" LINE_NR="466" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="467" LINE_NR="467" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="468" LINE_NR="468" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="469" LINE_NR="469" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="470" LINE_NR="470" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="471" LINE_NR="471" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="472" LINE_NR="472" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="473" LINE_NR="473" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="474" LINE_NR="474" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="475" LINE_NR="475" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="476" LINE_NR="476" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="477" LINE_NR="477" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="478" LINE_NR="478" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="479" LINE_NR="479" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="480" LINE_NR="480" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="481" LINE_NR="481" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="482" LINE_NR="482" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="483" LINE_NR="483" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="484" LINE_NR="484" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="485" LINE_NR="485" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="486" LINE_NR="486" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="487" LINE_NR="487" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="488" LINE_NR="488" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="489" LINE_NR="489" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="490" LINE_NR="490" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="491" LINE_NR="491" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="492" LINE_NR="492" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="493" LINE_NR="493" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="494" LINE_NR="494" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="495" LINE_NR="495" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="496" LINE_NR="496" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="497" LINE_NR="497" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="498" LINE_NR="498" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="499" LINE_NR="499" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="500" LINE_NR="500" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="501" LINE_NR="501" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="502" LINE_NR="502" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="503" LINE_NR="503" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="504" LINE_NR="504" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="505" LINE_NR="505" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="506" LINE_NR="506" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="507" LINE_NR="507" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="508" LINE_NR="508" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="509" LINE_NR="509" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="510" LINE_NR="510" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="511" LINE_NR="511" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="512" LINE_NR="512" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="513" LINE_NR="513" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="514" LINE_NR="514" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="515" LINE_NR="515" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="516" LINE_NR="516" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="517" LINE_NR="517" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="518" LINE_NR="518" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="519" LINE_NR="519" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="520" LINE_NR="520" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="521" LINE_NR="521" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="522" LINE_NR="522" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="523" LINE_NR="523" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="524" LINE_NR="524" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="525" LINE_NR="525" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="526" LINE_NR="526" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="527" LINE_NR="527" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="528" LINE_NR="528" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="529" LINE_NR="529" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="530" LINE_NR="530" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="531" LINE_NR="531" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="532" LINE_NR="532" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="533" LINE_NR="533" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="534" LINE_NR="534" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="535" LINE_NR="535" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="536" LINE_NR="536" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="537" LINE_NR="537" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="538" LINE_NR="538" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="539" LINE_NR="539" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="540" LINE_NR="540" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="541" LINE_NR="541" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="542" LINE_NR="542" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="543" LINE_NR="543" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="544" LINE_NR="544" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="545" LINE_NR="545" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="546" LINE_NR="546" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="547" LINE_NR="547" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="548" LINE_NR="548" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="549" LINE_NR="549" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="550" LINE_NR="550" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="551" LINE_NR="551" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="552" LINE_NR="552" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="553" LINE_NR="553" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="554" LINE_NR="554" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="555" LINE_NR="555" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="556" LINE_NR="556" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="557" LINE_NR="557" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="558" LINE_NR="558" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="559" LINE_NR="559" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="560" LINE_NR="560" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="561" LINE_NR="561" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="562" LINE_NR="562" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="563" LINE_NR="563" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="564" LINE_NR="564" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="565" LINE_NR="565" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="566" LINE_NR="566" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="567" LINE_NR="567" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="568" LINE_NR="568" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="569" LINE_NR="569" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="570" LINE_NR="570" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="571" LINE_NR="571" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="572" LINE_NR="572" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="573" LINE_NR="573" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="574" LINE_NR="574" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="575" LINE_NR="575" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="576" LINE_NR="576" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="577" LINE_NR="577" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="578" LINE_NR="578" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="579" LINE_NR="579" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="580" LINE_NR="580" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="581" LINE_NR="581" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="582" LINE_NR="582" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="583" LINE_NR="583" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="584" LINE_NR="584" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="585" LINE_NR="585" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="586" LINE_NR="586" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="587" LINE_NR="587" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="588" LINE_NR="588" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="589" LINE_NR="589" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="590" LINE_NR="590" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="591" LINE_NR="591" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="592" LINE_NR="592" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="593" LINE_NR="593" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="594" LINE_NR="594" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="595" LINE_NR="595" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="596" LINE_NR="596" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="597" LINE_NR="597" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="598" LINE_NR="598" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="599" LINE_NR="599" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="600" LINE_NR="600" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="601" LINE_NR="601" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="602" LINE_NR="602" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="603" LINE_NR="603" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="604" LINE_NR="604" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="605" LINE_NR="605" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="606" LINE_NR="606" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="607" LINE_NR="607" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="608" LINE_NR="608" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="609" LINE_NR="609" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="610" LINE_NR="610" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="611" LINE_NR="611" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="612" LINE_NR="612" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="613" LINE_NR="613" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="614" LINE_NR="614" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="615" LINE_NR="615" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="616" LINE_NR="616" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="617" LINE_NR="617" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="618" LINE_NR="618" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="619" LINE_NR="619" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="620" LINE_NR="620" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="621" LINE_NR="621" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="622" LINE_NR="622" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="623" LINE_NR="623" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="624" LINE_NR="624" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="625" LINE_NR="625" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="626" LINE_NR="626" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="627" LINE_NR="627" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="628" LINE_NR="628" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="629" LINE_NR="629" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="630" LINE_NR="630" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="631" LINE_NR="631" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="632" LINE_NR="632" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="633" LINE_NR="633" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="634" LINE_NR="634" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="635" LINE_NR="635" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="636" LINE_NR="636" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="637" LINE_NR="637" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="638" LINE_NR="638" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="639" LINE_NR="639" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="640" LINE_NR="640" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="641" LINE_NR="641" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="642" LINE_NR="642" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="643" LINE_NR="643" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="644" LINE_NR="644" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="645" LINE_NR="645" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="646" LINE_NR="646" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="647" LINE_NR="647" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="648" LINE_NR="648" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="649" LINE_NR="649" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="650" LINE_NR="650" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="651" LINE_NR="651" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="652" LINE_NR="652" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="653" LINE_NR="653" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="654" LINE_NR="654" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="655" LINE_NR="655" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="656" LINE_NR="656" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="657" LINE_NR="657" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="658" LINE_NR="658" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="659" LINE_NR="659" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="660" LINE_NR="660" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="661" LINE_NR="661" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="662" LINE_NR="662" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="663" LINE_NR="663" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="664" LINE_NR="664" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="665" LINE_NR="665" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="666" LINE_NR="666" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="667" LINE_NR="667" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="668" LINE_NR="668" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="669" LINE_NR="669" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="670" LINE_NR="670" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="671" LINE_NR="671" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="672" LINE_NR="672" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="673" LINE_NR="673" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="674" LINE_NR="674" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="675" LINE_NR="675" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="676" LINE_NR="676" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="677" LINE_NR="677" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="678" LINE_NR="678" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="679" LINE_NR="679" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="680" LINE_NR="680" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="681" LINE_NR="681" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="682" LINE_NR="682" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="683" LINE_NR="683" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="684" LINE_NR="684" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="685" LINE_NR="685" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="686" LINE_NR="686" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="687" LINE_NR="687" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="688" LINE_NR="688" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="689" LINE_NR="689" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="690" LINE_NR="690" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="691" LINE_NR="691" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="692" LINE_NR="692" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="693" LINE_NR="693" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="694" LINE_NR="694" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="695" LINE_NR="695" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="696" LINE_NR="696" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="697" LINE_NR="697" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="698" LINE_NR="698" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="699" LINE_NR="699" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="700" LINE_NR="700" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="701" LINE_NR="701" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="702" LINE_NR="702" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="703" LINE_NR="703" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="704" LINE_NR="704" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="705" LINE_NR="705" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="706" LINE_NR="706" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="707" LINE_NR="707" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="708" LINE_NR="708" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="709" LINE_NR="709" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="710" LINE_NR="710" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="711" LINE_NR="711" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="712" LINE_NR="712" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="713" LINE_NR="713" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="714" LINE_NR="714" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="715" LINE_NR="715" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="716" LINE_NR="716" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="717" LINE_NR="717" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="718" LINE_NR="718" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="719" LINE_NR="719" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="720" LINE_NR="720" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="721" LINE_NR="721" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="722" LINE_NR="722" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="723" LINE_NR="723" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="724" LINE_NR="724" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="725" LINE_NR="725" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="726" LINE_NR="726" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="727" LINE_NR="727" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="728" LINE_NR="728" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="729" LINE_NR="729" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="730" LINE_NR="730" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="731" LINE_NR="731" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="732" LINE_NR="732" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="733" LINE_NR="733" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="734" LINE_NR="734" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="735" LINE_NR="735" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="736" LINE_NR="736" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="737" LINE_NR="737" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="738" LINE_NR="738" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="739" LINE_NR="739" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="740" LINE_NR="740" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="741" LINE_NR="741" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="742" LINE_NR="742" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="743" LINE_NR="743" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="744" LINE_NR="744" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="745" LINE_NR="745" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="746" LINE_NR="746" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="747" LINE_NR="747" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="748" LINE_NR="748" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="749" LINE_NR="749" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="750" LINE_NR="750" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="751" LINE_NR="751" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="752" LINE_NR="752" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="753" LINE_NR="753" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="754" LINE_NR="754" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="755" LINE_NR="755" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="756" LINE_NR="756" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="757" LINE_NR="757" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="758" LINE_NR="758" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="759" LINE_NR="759" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="760" LINE_NR="760" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="761" LINE_NR="761" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="762" LINE_NR="762" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="763" LINE_NR="763" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="764" LINE_NR="764" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="765" LINE_NR="765" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="766" LINE_NR="766" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="767" LINE_NR="767" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="768" LINE_NR="768" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="769" LINE_NR="769" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="770" LINE_NR="770" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="771" LINE_NR="771" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="772" LINE_NR="772" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="773" LINE_NR="773" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="774" LINE_NR="774" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="775" LINE_NR="775" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="776" LINE_NR="776" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="777" LINE_NR="777" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="778" LINE_NR="778" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="779" LINE_NR="779" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="780" LINE_NR="780" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="781" LINE_NR="781" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="782" LINE_NR="782" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="783" LINE_NR="783" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="784" LINE_NR="784" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="785" LINE_NR="785" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="786" LINE_NR="786" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="787" LINE_NR="787" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="788" LINE_NR="788" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="789" LINE_NR="789" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="790" LINE_NR="790" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="791" LINE_NR="791" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="792" LINE_NR="792" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="793" LINE_NR="793" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="794" LINE_NR="794" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="795" LINE_NR="795" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="796" LINE_NR="796" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="797" LINE_NR="797" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="798" LINE_NR="798" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="799" LINE_NR="799" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="800" LINE_NR="800" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="801" LINE_NR="801" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+    <ERROR ERROR_NR="802" LINE_NR="802" MESSAGE="#HY000Field 'aluno' doesn't have a default value">
+    </ERROR>
+</IMPORT_ERRORS>
